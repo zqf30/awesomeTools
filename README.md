@@ -3,4 +3,4 @@
 
 ## 空降指南
 
-- sim10k_to_coco.py https://zhuanlan.zhihu.com/p/585928952?
+- sim10k_to_coco.py https://zhuanlan.zhihu.com/p/585928952
